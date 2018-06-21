@@ -10,4 +10,5 @@ def begins_with_r(arr)
     return true
   else
     false
+  end
 end
